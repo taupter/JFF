@@ -47,7 +47,10 @@ Details about [HDMI Adapter](https://github.com/konkotgit/JFF/tree/main/hdmi_ada
 Details about [Keyboard](https://github.com/konkotgit/JFF/tree/main/keyboard "Keyboard")
 ## PSU
 Use a good quality 5V 2A power supply.
-## Revision 1.1 has been built and tested.
+## Revisions 
+1.1b has been built and tested.
+
+1.1c Fixed triggers used as outputs on joystick ports.
 
 Some ideas were taken from the projects:
 * [Artemisa Computer System](https://github.com/artemisamsx "Artemisa Computer System")
